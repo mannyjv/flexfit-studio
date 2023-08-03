@@ -11,7 +11,7 @@ const HeroBanner = () => {
       p="20px"
     >
       <Typography color="#FF2625" fontWeight="600" fontSize="26px">
-        Fitness Club
+        FlexFit Studio Fitness
       </Typography>
 
       <Typography
